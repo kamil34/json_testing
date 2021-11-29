@@ -1,0 +1,16 @@
+{
+    "record": [
+        {
+            "domain": "test1.local",
+            "email_address": "test1@admin.local",
+            "phone": "+1 212 456 7890",
+            "username": "test1"
+        },
+        {
+            "domain": "test2.local",
+            "email_address": "test2@admin.local",
+            "phone": "+1 212 456 7891",
+            "username": "test2"
+        }
+    ]
+}
